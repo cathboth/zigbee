@@ -6,7 +6,7 @@ title: SilverCrest Garden Spike with 2 Sockets
 category: plug
 supports: switch
 zigbeemodel: ['TS0101','_TZ3000_br3laukf']
-compatible: [z2m, tasmota, zha]
+compatible: [z2m, tasmota,deConz, zha]
 mlink: https://www.lidl.com/
 link: 
 ---
